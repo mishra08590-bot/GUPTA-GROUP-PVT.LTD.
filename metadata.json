@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Gupta Group Pvt. Ltd ",
+  "description": "Industrial Quality Assurance and Personnel Management Suite",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
